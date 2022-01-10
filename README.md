@@ -1,2 +1,2 @@
 # pattern-matching-tutorial
- Python's new Structured Pattern Matching tutorial for ClePy 
+ Python's new Structural Pattern Matching tutorial.
